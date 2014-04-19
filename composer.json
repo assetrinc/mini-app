@@ -1,0 +1,15 @@
+{
+    "name": "assetrinc/mini-app",
+    "description": "Assetrinc Mini App for Serving Assets",
+    "keywords": [
+        "assetrinc",
+        "assets",
+        "mini-app"
+    ],
+    "homepage": "http://assetrinc.github.io",
+    "require": {
+        "php": ">=5.4.19",
+        "silex/silex": "~1.1",
+        "lightster/lstr-silex": "~0.2"
+    }
+}

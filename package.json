@@ -1,0 +1,18 @@
+{
+  "name": "assetrinc-mini-app",
+  "preferGlobal": false,
+  "description": "Assetrinc Mini App",
+  "keywords": [
+    "assetrinc",
+    "assets"
+  ],
+  "dependencies" : {
+    "coffee-script" :  "1.7.x",
+    "uglify-js"     :  "2.4.x",
+    "uglifycss"     :  "0.0.8"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}

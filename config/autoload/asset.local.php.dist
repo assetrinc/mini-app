@@ -1,0 +1,10 @@
+<?php
+return array(
+    'lstr.asset.path' => array(
+        'app'   => '/path/to/app/assets',
+        'bower' => '/path/to/bower_components',
+    ),
+    'lstr.asset.assetrinc' => array(
+        //'debug' => true,
+    ),
+);
